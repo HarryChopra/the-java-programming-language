@@ -361,7 +361,8 @@ paket-files/
 
 # JetBrains Rider
 .idea/
-*.sln.iml
+*.iml
+out/
 
 # CodeRush personal settings
 .cr/personal
@@ -403,8 +404,3 @@ ASALocalRun/
 
 # Local History for Visual Studio
 .localhistory/
-
-# IDEA Setup
-idea/
-*.iml
-out/
