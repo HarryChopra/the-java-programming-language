@@ -405,6 +405,6 @@ ASALocalRun/
 .localhistory/
 
 # IDEA Setup
-idea
+idea/
 *.iml
-out
+out/
