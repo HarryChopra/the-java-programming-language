@@ -406,4 +406,5 @@ ASALocalRun/
 
 # IDEA Setup
 .idea/*
-.iml
+*.iml
+.out/*
