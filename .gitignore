@@ -363,6 +363,7 @@ paket-files/
 .idea/
 *.iml
 out/
+sand-box/
 
 # CodeRush personal settings
 .cr/personal
